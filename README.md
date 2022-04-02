@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 - Oi, eu sou a yoh ! 
 
-     <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/a07dc839907ee7c58a82fd19a4813e53.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a>
+     <a href="https://i.picasion.com/pic92/a07dc839907ee7c58a82fd19a4813e53.gif"><img src="https://i.picasion.com/pic92/a07dc839907ee7c58a82fd19a4813e53.gif" width="125" height="125" border="0" alt="" /></a>
 
 <div>
   
