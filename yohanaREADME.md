@@ -13,7 +13,13 @@ You can click the Preview link to take a look at your changes.
  
  <div>
     
-</p> <img src="https://img.icons8.com/color/48/000000/delphi-ide.png"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </a> <a href="https://linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>
+</p> <img src="https://img.icons8.com/color/48/000000/delphi-ide.png"/> 
+</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/> 
+<i class="devicon-javascript-plain colored"></i>
+
+          
 
  
  ##
